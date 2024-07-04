@@ -16,3 +16,5 @@
 8. test 폴더에서 'make'를 입력한다.
 
 9. test 폴더에서 './test'를 입력하고 모터 드라이버의 동작을 확인한다.
+
+10. 위 단계를 진행했을 때 2ms의 Motor Spec을 보이지 않는다면 config.txt파일에 CPU Frequency를 700Hz에서 800Hz로 Overclocking을 허용해준다. ( 최대 1000Hz )
