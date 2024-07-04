@@ -1,0 +1,1 @@
+cmd_/home/nahyun/Drivers/GlassMotor/GlassMotor.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nahyun/Drivers/GlassMotor/GlassMotor.ko /home/nahyun/Drivers/GlassMotor/GlassMotor.o /home/nahyun/Drivers/GlassMotor/GlassMotor.mod.o;  true

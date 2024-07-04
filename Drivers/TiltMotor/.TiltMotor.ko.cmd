@@ -1,0 +1,1 @@
+cmd_/home/nahyun/Drivers/TiltMotor/TiltMotor.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nahyun/Drivers/TiltMotor/TiltMotor.ko /home/nahyun/Drivers/TiltMotor/TiltMotor.o /home/nahyun/Drivers/TiltMotor/TiltMotor.mod.o;  true
