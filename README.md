@@ -11,6 +11,21 @@ Raspbian 32bit Legacy
 - Raspberrypi 4 ( RAM : 8 GB ) 
 - Step Motor: [ULN2003 + Motor Module](https://www.devicemart.co.kr/goods/view?no=1327608)
 
+### Pin Map 
+| Pin Number|Purpose|
+|----|--------------------------|
+|GPIO12|GlassMotor IN1|
+|GPIO16|GlassMotor IN2|
+|GPIO20|GlassMotor IN3|
+|GPIO21|GlassMotor IN4|
+|GPIO24|ShieldMotor IN1|
+|GPIO25|ShieldMotor IN2|
+|GPIO19|ShieldMotor IN3|
+|GPIO1|ShieldMotor IN4|
+|GPIO23|TiltMotor IN1|
+|GPIO18|TiltMotor IN2|
+|GPIO15|TiltMotor IN3|
+|GPIO14|TiltMotor IN4|
 
 ## Demonstration
 ### 시연 영상
@@ -128,6 +143,14 @@ make
 Match Raspberry Pi Board Pin Number with Step Motor in GlassDriver.c(TiltMotor,ShileMotor etc) code
 <br></br>
 ![디브_하드웨어](https://github.com/NahyunEE/DeviceDriver_StepMotor/assets/50420981/82a2105c-faa8-4e00-862c-1ec4813f7028)
+
+# Prerequisites
+[Linux Driver Tutirial](https://embetronicx.com/linux-device-driver-tutorials/)
+
+# Reference
+https://github.com/NahyunEE/smart_sunroof
+
+
 
 ## License
 MIT License
