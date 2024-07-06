@@ -128,3 +128,6 @@ make
 Match Raspberry Pi Board Pin Number with Step Motor in GlassDriver.c(TiltMotor,ShileMotor etc) code
 <br></br>
 ![디브_하드웨어](https://github.com/NahyunEE/DeviceDriver_StepMotor/assets/50420981/82a2105c-faa8-4e00-862c-1ec4813f7028)
+
+## License
+MIT License
