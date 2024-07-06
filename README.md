@@ -153,4 +153,4 @@ https://github.com/NahyunEE/smart_sunroof
 
 
 ## License
-MIT License
+GPU GPL
