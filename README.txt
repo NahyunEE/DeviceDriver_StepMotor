@@ -1,3 +1,20 @@
+
+# Device Driver for Step Motor
+- This is for operating step motor by using Hardware Timer(hr_timer) 
+
+
+## Usage(English)
+1. When installing Raspbian, add "arm_64bit = 0" to the config.txt file. If you do not do this, the kernel will be updated to 64-bit.
+
+2. Enter root mode
+'''Shell
+sudo su
+'''
+
+3. 
+
+
+## Usage(Korean)
 1. 라즈비안 설치 시 config.txt 파일에 arm_64bit = 0 을 적어준다.
    이를 진행하지 않을 경우 64비트 커널로 업데이트가 된다. 
 
